@@ -7,29 +7,26 @@ This Is A C-Program To Illustrate The Producer Consumer Problem
 
 The Operations/Error Illustrated :
 
-    1. Priority Queue using Heap
+Producer and Consumer
 
-      1.1. Insert
-      1.2. DeleteMin
-      1.3. Display
-      1.4. Exit
+    1. Produce An Item
+
+    2. Consume An Item
+
+    3. Display The Items
+
+    4. Exit
 
 The User Will Be Prompted To :
 
-    1. Priority Queue Display
+    1. Enter The Choice
 
-        1.1. Priority Queue Display
-
-    2. Enter the Size of the Priority Queue
+    2. Enter The Item To Be Inserted In Buffer
     
-        2.1. Priority Queue Size is to Small
-
-    3. Priority Queue is Full
-
-    4. Priority Queue is Empty
-
-    5. Enter Your Choice
-
-    6. Enter The Element
-
-    7. Deleted Element Is
+    3. The Produced Element Is
+    
+    4. The Consumed Item Is
+    
+    5. The Buffer Contains
+    
+    6. Cannot Consume Till Producer Produces It
